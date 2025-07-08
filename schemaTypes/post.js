@@ -69,3 +69,4 @@ export default defineType({
     },
   },
 })
+// This schema defines a 'post' document type with fields for title, slug, author, main image, categories, published date, summary, and body content.
